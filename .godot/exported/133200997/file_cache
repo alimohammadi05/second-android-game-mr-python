@@ -1,0 +1,16 @@
+res://floor/floor_01.tscn::42831de89cc88061d8b1d4a1384dc885::1702833013::res://.godot/exported/133200997/export-53b2a5eade7b0c5c72101065e4234516-floor_01.scn
+res://floor/floor_02.tscn::997d3988c6030e1d35f4444ae31b6520::1702833013::res://.godot/exported/133200997/export-39280fa6d66a5b5ef3f6d440be06136c-floor_02.scn
+res://floor/floor_03.tscn::dbea2d95eb6252da8bd89f13496532c0::1702833013::res://.godot/exported/133200997/export-b10265c0935cf168d0331ac5095d97c6-floor_03.scn
+res://food/green_apple.tscn::9792ad2939872383c695b77758bc3fba::1702833013::res://.godot/exported/133200997/export-8b09e5a796328182de4b81ff4af52741-green_apple.scn
+res://food/red_apple.tscn::b058831f69d3661e9572f4a551c7c9c5::1702833013::res://.godot/exported/133200997/export-d6a01810c21bc8505b5ec9ab63a716e4-red_apple.scn
+res://snake/head.tscn::aa88191a7d14078a137dd30a07ce7e4c::1702833013::res://.godot/exported/133200997/export-24b66c4e071f68e5276bc075d4a07165-head.scn
+res://snake/tail_01.tscn::c2470640cf4caa07a73599a654de1dea::1702833013::res://.godot/exported/133200997/export-03b87f94e86c3fd4c59e76ace5813053-tail_01.scn
+res://snake/tail_02.tscn::fcbfd40f822dcc3ae2d83ac70a84e49e::1702833013::res://.godot/exported/133200997/export-5cba8feb83288d613f97129a4ed007d9-tail_02.scn
+res://snake/tail_03.tscn::fa647e87ceff26c1d819bab978260b61::1702833013::res://.godot/exported/133200997/export-584ac23868a684096b45309a72402f8e-tail_03.scn
+res://walls/wall_01.tscn::bbb550749d310bcba646138ab79d38bb::1702833013::res://.godot/exported/133200997/export-79dab497f5661b71046d252f424134aa-wall_01.scn
+res://walls/wall_02.tscn::7565d9ea260ed7184fea65cff548411d::1702833013::res://.godot/exported/133200997/export-3e601d5821ea6ce338a60d948123d464-wall_02.scn
+res://walls/wall_03.tscn::f8515476a9e8e77537b0a3f552e72c35::1702833013::res://.godot/exported/133200997/export-7bfe338a75be7da301dac59d6274c8f7-wall_03.scn
+res://flat_blue_button_style.tres::20e306420dd113c4f62e835e79ef072b::1702833013::res://.godot/exported/133200997/export-7c017e8a5116f14ec9dfd1f2a1974e41-flat_blue_button_style.res
+res://gui.tscn::0133998e00f822e395b0d7e82c33c941::1788100131::res://.godot/exported/133200997/export-6a6a2d64feb611bd00115e0ad0692b2e-gui.scn
+res://main_theme.tres::4c58c8a80fd9e9c3d8729fca559d4201::1702833013::res://.godot/exported/133200997/export-20b5b92c2f817caccb6dc24c0a7175e7-main_theme.res
+res://snake_pit.tscn::283b82b758331294fa5bc22d0fb10841::1702833013::res://.godot/exported/133200997/export-99907ed8198c3895daeae282371def75-snake_pit.scn
