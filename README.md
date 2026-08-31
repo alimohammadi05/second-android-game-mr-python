@@ -25,4 +25,4 @@ This project is engineered as an open-source learning resource for foundational 
 
 ---
 
-*Note: Asset files (images, audio) and compiled binary releases (`.apk`) are excluded from this source repository[cite: 1].*
+*Note: Asset files (images, audio) are excluded from this source repository[cite: 1].*
