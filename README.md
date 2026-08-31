@@ -17,11 +17,11 @@ This project is engineered as an open-source learning resource for foundational 
 
 ---
 
-## 🎮 How to Play
-1. Clone or download the repository[cite: 1].
-2. Open the project using **Godot Engine 4.x**[cite: 1].
-3. Press **F5** to run the game[cite: 1].
-4. Guide Mr. Python using directional inputs to consume items, increase your score, and survive the accelerating speed curve![cite: 1]
+**🎮 How to Play**
+
+* Go to the **Releases** section of the repository.
+* Download the **APK** file and install it on your device.
+* Launch the game and guide Mr. Python using directional inputs to consume items, increase your score, and survive the accelerating speed curve!
 
 ---
 
